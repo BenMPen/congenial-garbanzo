@@ -1,0 +1,5 @@
+[user]
+	name = Bennett Mead
+	email = bennett.mead@cscglobal.com
+[core]
+	editor = notepad++ -multiInst -nosession
